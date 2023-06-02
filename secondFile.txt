@@ -1,5 +1,7 @@
 1 line sFgit1
 2 line sFgit1
+1 line sFgit2
+2 line sFgit2
 3 line
 4 line
 5 line
